@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+*.iws
+*.un~
+*~
+.*.s[a-w][a-z]
+.idea/
+.netrwhist
+Session.vim
